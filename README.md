@@ -51,7 +51,7 @@ python arm_testing.py -mi [MODEL_ID] -c [NUMBER_OF_TEST] -ns [NUMBER_OF_STEPS]
 
 ### License
 
-The repository is licensed under the [GNU General Public License v3.0](LICENSE).
+The repository is licensed under the [Apache License 2.0](LICENSE).
 
 ### Acknowledgements
 
