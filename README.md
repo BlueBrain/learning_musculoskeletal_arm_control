@@ -49,6 +49,22 @@ python arm_testing.py -mi [MODEL_ID] -c [NUMBER_OF_TEST] -ns [NUMBER_OF_STEPS]
 - ffmpeg
 - [ImageMagick](https://imagemagick.org/index.php) (animation)
 
+### References
+
+If you find the code useful for your research, please consider citing
+
+```bib
+@article{denizdurduran2022optimum,
+  title={Optimum trajectory learning in musculoskeletal systems with model predictive control and deep reinforcement learning},
+  author={Denizdurduran, Berat and Markram, Henry and Gewaltig, Marc-Oliver},
+  journal={Biological cybernetics},
+  volume={116},
+  number={5},
+  pages={711--726},
+  year={2022},
+  publisher={Springer}
+```
+
 ### License
 
 The repository is licensed under the [Apache License 2.0](LICENSE).
