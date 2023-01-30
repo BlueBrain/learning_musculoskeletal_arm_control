@@ -1,7 +1,5 @@
 # Optimum trajectory learning in musculoskeletal systems with model predictive control and deep reinforcement learning
 
-Berat Denizdurduran, Henry Markram, Marc-Oliver Gewaltig - Biol Cybern. 2022; 116(5-6): 711–726
-
 ![figure_1.png](static/figure_1.png)
 
 ## Summary
@@ -51,7 +49,7 @@ python arm_testing.py -mi [MODEL_ID] -c [NUMBER_OF_TEST] -ns [NUMBER_OF_STEPS]
 
 ### References
 
-If you find the code useful for your research, please consider citing
+If you find the code useful for your research, please cite as follows:
 
 ```bib
 @article{denizdurduran2022optimum,
