@@ -49,6 +49,8 @@ python arm_testing.py -mi [MODEL_ID] -c [NUMBER_OF_TEST] -ns [NUMBER_OF_STEPS]
 
 ### References
 
+Denizdurduran, B., Markram, H., & Gewaltig, M.-O. (2022). Optimum trajectory learning in musculoskeletal systems with model predictive control and deep reinforcement learning. Biological Cybernetics, 116, 711–726. https://doi.org/10.1007/s00422-022-00940-x
+
 If you find the code useful for your research, please cite as follows:
 
 ```bib
